@@ -1,6 +1,6 @@
 # Welcome to the OSU NSBE Chapter GitHub
 
-![OSU NSBE Logo](link-to-logo-image)
+![OSU NSBE Logo]([link-to-logo-image](https://www.nsbe.org/getmedia/2364f2f7-1d5a-41e5-9d25-5b9e0712b73c/NSBELogo_Color_withName.png))
 
 Welcome to the official GitHub profile of the Oregon State University Chapter of the National Society of Black Engineers (NSBE). Our mission is to increase the number of culturally responsible Black engineers who excel academically, succeed professionally, and positively impact the community.
 
